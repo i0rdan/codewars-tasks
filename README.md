@@ -9,3 +9,4 @@ Solutions:
 6. [Keyword Cipher](https://www.codewars.com/kata/57241cafef90082e270012d8) ([JavaScriptFile](https://github.com/i0rdan/codewars-tasks/blob/main/solutions/keyword-cipher.js))
 7. [Luck check](https://www.codewars.com/kata/5314b3c6bb244a48ab00076c) ([JavaScriptFile](https://github.com/i0rdan/codewars-tasks/blob/main/solutions/luck-check.js))
 8. [Simple Pig Latin](https://www.codewars.com/kata/6421b8a48b400a02ff70f629) ([JavaScriptFile](https://github.com/i0rdan/codewars-tasks/blob/main/solutions/simple-pig-latin.js))
+9. [Range Extraction](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f) ([JavaScriptFile](https://github.com/i0rdan/codewars-tasks/blob/main/solutions/range-extraction.js))
