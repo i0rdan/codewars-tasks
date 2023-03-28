@@ -1,21 +1,9 @@
-async function ss() {
-  console.log('start asyync');
-}
+// https://www.codewars.com/kata/520b9d2ad5c005041100000f
 
-function timeoutPromise(delay) {
-	return new Promise( function(resolve){
-		setTimeout( function(){
-      console.log('settime1');
-			resolve( "Timeout!" );
-      console.log('settime2');
-		}, 300 );
-	} );
+// Move the first letter of each word to the end of it, then add "ay" to the end of the word. Leave punctuation marks untouched.
+
+function pigIt(str){
+  return str.split(' ')
+    .map((el) => ['!', '?'].includes(el)? el : `${el.slice(1) + el[0]}ay`)
+    .join(' ');
 }
-console.log('start');
-console.log('start after async');
-new Promise( function(resolve){
-  resolve();
-  console.log(1232);
-} );
-timeoutPromise(0).then((a) => console.log("Timeout!"));
-setTimeout(() => console.log(123), 0);
