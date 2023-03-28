@@ -10,3 +10,4 @@ Solutions:
 7. [Luck check](https://www.codewars.com/kata/5314b3c6bb244a48ab00076c) ([JavaScriptFile](https://github.com/i0rdan/codewars-tasks/blob/main/solutions/luck-check.js))
 8. [Simple Pig Latin](https://www.codewars.com/kata/520b9d2ad5c005041100000f) ([JavaScriptFile](https://github.com/i0rdan/codewars-tasks/blob/main/solutions/simple-pig-latin.js))
 9. [Range Extraction](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f) ([JavaScriptFile](https://github.com/i0rdan/codewars-tasks/blob/main/solutions/range-extraction.js))
+10. [ROT13](https://www.codewars.com/kata/52223df9e8f98c7aa7000062) ([JavaScriptFile](https://github.com/i0rdan/codewars-tasks/blob/main/solutions/rot-13.js))
