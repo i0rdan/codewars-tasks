@@ -12,4 +12,5 @@ Solutions:
 9. [Range Extraction](https://www.codewars.com/kata/51ba717bb08c1cd60f00002f) ([JavaScriptFile](https://github.com/i0rdan/codewars-tasks/blob/main/solutions/range-extraction.js))
 10. [ROT13](https://www.codewars.com/kata/52223df9e8f98c7aa7000062) ([JavaScriptFile](https://github.com/i0rdan/codewars-tasks/blob/main/solutions/rot-13.js))
 11. [Next bigger number with the same digits](https://www.codewars.com/kata/55983863da40caa2c900004e) ([JavaScriptFile](https://github.com/i0rdan/codewars-tasks/blob/main/solutions/next-bigger-number.js))
-11. [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006) ([JavaScriptFile](https://github.com/i0rdan/codewars-tasks/blob/main/solutions/multiples-of-3-or-5.js))
+12. [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006) ([JavaScriptFile](https://github.com/i0rdan/codewars-tasks/blob/main/solutions/multiples-of-3-or-5.js))
+13. [Count characters in your string](https://www.codewars.com/kata/52efefcbcdf57161d4000091) ([JavaScriptFile](https://github.com/i0rdan/codewars-tasks/blob/main/solutions/count-chars-in-string.js))
