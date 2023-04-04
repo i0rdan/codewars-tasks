@@ -15,3 +15,4 @@ Solutions:
 12. [Multiples of 3 or 5](https://www.codewars.com/kata/514b92a657cdc65150000006) ([JavaScriptFile](https://github.com/i0rdan/codewars-tasks/blob/main/solutions/multiples-of-3-or-5.js))
 13. [Count characters in your string](https://www.codewars.com/kata/52efefcbcdf57161d4000091) ([JavaScriptFile](https://github.com/i0rdan/codewars-tasks/blob/main/solutions/count-chars-in-string.js))
 14. [Array deep count](https://www.codewars.com/kata/596f72bbe7cd7296d1000029) ([JavaScriptFile](https://github.com/i0rdan/codewars-tasks/blob/main/solutions/array-deep-count.js))
+15. [Help the general decode secret enemy messages.](https://www.codewars.com/kata/52cf02cd825aef67070008fa) ([JavaScriptFile](https://github.com/i0rdan/codewars-tasks/blob/main/solutions/decode-message.js))
