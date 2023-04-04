@@ -17,3 +17,4 @@ Solutions:
 14. [Array deep count](https://www.codewars.com/kata/596f72bbe7cd7296d1000029) ([JavaScriptFile](https://github.com/i0rdan/codewars-tasks/blob/main/solutions/array-deep-count.js))
 15. [Help the general decode secret enemy messages.](https://www.codewars.com/kata/52cf02cd825aef67070008fa) ([JavaScriptFile](https://github.com/i0rdan/codewars-tasks/blob/main/solutions/decode-message.js))
 16. [Convert string to camel case](https://www.codewars.com/kata/517abf86da9663f1d2000003) ([JavaScriptFile](https://github.com/i0rdan/codewars-tasks/blob/main/solutions/string-to-camel-case.js))
+17. [Build Tower](https://www.codewars.com/kata/576757b1df89ecf5bd00073b) ([JavaScriptFile](https://github.com/i0rdan/codewars-tasks/blob/main/solutions/build-tower.js))
