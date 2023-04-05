@@ -18,3 +18,4 @@ Solutions:
 15. [Help the general decode secret enemy messages.](https://www.codewars.com/kata/52cf02cd825aef67070008fa) ([JavaScriptFile](https://github.com/i0rdan/codewars-tasks/blob/main/solutions/decode-message.js))
 16. [Convert string to camel case](https://www.codewars.com/kata/517abf86da9663f1d2000003) ([JavaScriptFile](https://github.com/i0rdan/codewars-tasks/blob/main/solutions/string-to-camel-case.js))
 17. [Build Tower](https://www.codewars.com/kata/576757b1df89ecf5bd00073b) ([JavaScriptFile](https://github.com/i0rdan/codewars-tasks/blob/main/solutions/build-tower.js))
+18. [Explosive Sum](https://www.codewars.com/kata/52ec24228a515e620b0005ef) ([JavaScriptFile](https://github.com/i0rdan/codewars-tasks/blob/main/solutions/explosive-sum.js))
