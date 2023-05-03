@@ -21,3 +21,4 @@ Solutions:
 18. [Explosive Sum](https://www.codewars.com/kata/52ec24228a515e620b0005ef) ([JavaScriptFile](https://github.com/i0rdan/codewars-tasks/blob/main/solutions/explosive-sum.js))
 19. [IPv4 to int32](https://www.codewars.com/kata/52ea928a1ef5cfec800003ee) ([JavaScriptFile](https://github.com/i0rdan/codewars-tasks/blob/main/solutions/ipv4-to-int32.js))
 20. [Find Cracker.](https://www.codewars.com/kata/59f70440bee845599c000085) ([JavaScriptFile](https://github.com/i0rdan/codewars-tasks/blob/main/solutions/find-cracker.js))
+21. [Persistent Bugger.](https://www.codewars.com/kata/55bf01e5a717a0d57e0000ec) ([JavaScriptFile](https://github.com/i0rdan/codewars-tasks/blob/main/solutions/persistent-bugger.js))
